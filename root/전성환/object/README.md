@@ -14,5 +14,26 @@
   - Bag
 - TicketOffice - 초대장을 티켓으로 교환하거나 구매할 장소
 - TicketSeller - 매표소에서 일할 판매원
-- 
+
+
+
+# 2. 객체지향 프로그래밍
+
+## movieTheater package
+
+- Movie - 영화
+  - title - 제목
+  - runningTime - 상영시간
+  - fee - 기본 요금
+  - discountPolicy - 할인 정책
+- Screening - 상영
+  - sequence - 순번
+  - whenScreend - 상영 시작 시간
+- DiscountPolicy - 할인 정책
+  - AmountDiscountPolicy - 금액 할인 정책
+  - PercentDiscountPolicy - 비율 할인 정책
+- DiscountCondition - 할인 조건
+  - SequenceCondition - 순번 조건
+  - PeriodCondition - 기간 조건
+- Reservation - 예매
 

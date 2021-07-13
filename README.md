@@ -87,8 +87,8 @@
             <td>  
                 covenant: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/covenant/ch01_%EA%B0%9D%EC%B2%B4_%EC%84%A4%EA%B3%84.md"> Ch1 </a> <br />
                 munkyung: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/munkyung/ch01.%EA%B0%9D%EC%B2%B4%2C%EC%84%A4%EA%B3%84.md"> Ch1 </a> <br />
-                Sunghwan-DS: <a href=""> Ch1 </a> <br />
-                uneap: <a href=""> Ch1 </a> 
+                Sunghwan-DS: <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#1-%EA%B0%9D%EC%B2%B4-%EC%84%A4%EA%B3%84"> Ch1 </a> <br />
+                uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/ticketProgram/ch01.%EA%B0%9D%EC%B2%B4%2C%EC%84%A4%EA%B3%84.md"> Ch1 </a> 
             </td>
         </tr>
         <tr>
@@ -97,9 +97,9 @@
             <td> Week 7. 오브젝트 Ch2 </td>
             <td>  
                 covenant: <a href="https://www.slideshare.net/ssuser8f4c99/ch02-249605018"> Ch2 </a> <br />
-                munkyung: <a href=""> Ch2 </a> <br />
-                Sunghwan-DS: <a href=""> Ch2 </a> <br />
-                uneap: <a href=""> Ch2 </a> 
+                munkyung: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/munkyung/ch02.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md"> Ch2 </a> <br />
+                Sunghwan-DS: <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#2-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D"> Ch2 </a> <br />
+                uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/ticketProgram/ch02.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md"> Ch2 </a> 
             </td>
         </tr>
         <tr>
@@ -108,9 +108,9 @@
             <td> Week 8. 오브젝트 Ch3 </td>
             <td>  
                 covenant: <a href="https://www.slideshare.net/ssuser8f4c99/ch03-249701000"> Ch3 </a> <br />
-                munkyung: <a href=""> Ch3 </a> <br />
-                Sunghwan-DS: <a href=""> Ch3 </a> <br />
-                uneap: <a href=""> Ch3 </a> 
+                <!-- munkyung: <a href=""> Ch3 </a> <br /> -->
+                Sunghwan-DS: <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#3-%EC%97%AD%ED%95%A0-%EC%B1%85%EC%9E%84-%ED%98%91%EB%A0%A5"> Ch3 </a> <br />
+                uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch03.%EC%97%AD%ED%95%A0%2C%EC%B1%85%EC%9E%84%2C%ED%98%91%EB%A0%A5.md"> Ch3 </a> 
             </td>
         </tr>
     </tbody>

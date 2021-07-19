@@ -113,6 +113,16 @@
                 uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch03.%EC%97%AD%ED%95%A0%2C%EC%B1%85%EC%9E%84%2C%ED%98%91%EB%A0%A5.md"> Ch3 </a> 
             </td>
         </tr>
+        <tr>
+            <td> 8 </td>
+            <td> 07. 19(월) </td>
+            <td> Week 9. 오브젝트 Ch4 </td>
+            <td>  
+                covenant: <a href="https://www.slideshare.net/ssuser8f4c99/ch04-249804110"> Ch4 </a> <br />
+                Sunghwan-DS: <a href=""> </a> <br />
+                uneap: <a href=""> </a> 
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -127,7 +137,6 @@
 
 
 <!-- 
-
 covenant: <a href=""> </a> <br />
 munkyung: <a href=""> </a> <br />
 Sunghwan-DS: <a href=""> </a> <br />

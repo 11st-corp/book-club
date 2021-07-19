@@ -37,3 +37,34 @@
   - PeriodCondition - 기간 조건
 - Reservation - 예매
 
+
+
+# 4. 설계 품질과 트레이드오프
+
+- Movie
+  - title
+  - runningTime
+  - fee
+  - discountConditions
+  - movieType - 영화의 할인 정책 타입
+  - discountAmount - 할인액
+  - discountPercent - 할인비율
+- Screening
+  - movie
+  - sequence
+  - whenScreened
+- DiscountCondition
+  - DiscountConditionType
+  - sequence
+  - dayOfWeek
+  - startTime
+  - endTime
+- Reservation
+  - customer
+  - screening
+  - fee
+  - audienceCount
+- Customer
+  - name
+  - id
+

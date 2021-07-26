@@ -119,8 +119,19 @@
             <td> Week 9. 오브젝트 Ch4 </td>
             <td>  
                 covenant: <a href="https://www.slideshare.net/ssuser8f4c99/ch04-249804110"> Ch4 </a> <br />
+                Sunghwan-DS: <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#4-%EC%84%A4%EA%B3%84-%ED%92%88%EC%A7%88%EA%B3%BC-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%98%A4%ED%94%84"> Ch4 </a> <br />
+                uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch04.%20%EC%84%A4%EA%B3%84%20%ED%92%88%EC%A7%88%EA%B3%BC%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%98%A4%ED%94%84.md"> Ch4 </a> 
+            </td>
+        </tr>
+        <tr>
+            <td> 9 </td>
+            <td> 07. 26(월) </td>
+            <td> Week 10. 오브젝트 Ch5 </td>
+            <td>  
+                covenant: <a href="https://www.slideshare.net/ssuser8f4c99/ch05-249859969"> Ch5 </a> <br />
                 Sunghwan-DS: <a href=""> </a> <br />
-                uneap: <a href=""> </a> 
+                uneap: <a href=""> </a> <br />
+                munkyung: <a href=""> </a>
             </td>
         </tr>
     </tbody>

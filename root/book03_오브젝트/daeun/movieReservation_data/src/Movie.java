@@ -1,4 +1,6 @@
+import java.time.DayOfWeek;
 import java.time.Duration;
+import java.time.LocalTime;
 import java.util.List;
 
 public class Movie {
@@ -63,5 +65,21 @@ public class Movie {
             throw new IllegalArgumentException();
         }
         return fee;
+    }
+
+    public boolean isDiscountable(DayOfWeek dayOfWeek, LocalTime time) {
+        if (discountConditionType != DiscountConditionType.PERIOD) {
+            throw new IllegalArgumentException();
+        }
+        return this.dayOfWeek.equals(dayOfWeek) &&
+            this.startTime.compareTo(time) <= 0 &&
+            this.endTime.compareTo(time) >= 0;
+    }
+
+    public boolean isDiscountable(int sequence) {
+        if(discountConditionType != DiscountConditionType.SEQUENCE) {
+            throw new IllegalArgumentException();
+        }
+        return this.sequence == sequence;
     }
 }

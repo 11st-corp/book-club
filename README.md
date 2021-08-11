@@ -129,9 +129,19 @@
             <td> Week 10. 오브젝트 Ch5 </td>
             <td>  
                 covenant: <a href="https://www.slideshare.net/ssuser8f4c99/ch05-249859969"> Ch5 </a> <br />
-                Sunghwan-DS: <a href=""> </a> <br />
+                Sunghwan-DS: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch05.%20%EC%B1%85%EC%9E%84%20%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0.md#ch05-%EC%B1%85%EC%9E%84-%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0"> Ch5 </a> <br />
                 uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch05.%20%EC%B1%85%EC%9E%84%20%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0.md"> Ch5 </a> <br />
-                munkyung: <a href=""> </a>
+            </td>
+        </tr>
+        <tr>
+            <td> 10 </td>
+            <td> 08. 09(월) </td>
+            <td> Week 10. 오브젝트 Ch6,7 </td>
+            <td>  
+                covenant: <a href="https://www.slideshare.net/ssuser8f4c99/ch07-249945972"> Ch7 </a> <br />
+                Sunghwan-DS: 
+                <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#6-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4">Ch6 </a>, <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#7-%EA%B0%9D%EC%B2%B4-%EB%B6%84%ED%95%B4"> Ch7 </a> <br />
+                uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch06.%20%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md"> Ch6</a>, <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch07.%20%EA%B0%9D%EC%B2%B4%20%EB%B6%84%ED%95%B4.md"> Ch7 </a> <br />
             </td>
         </tr>
     </tbody>

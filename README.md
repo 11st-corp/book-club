@@ -142,6 +142,7 @@
                 Sunghwan-DS: 
                 <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#6-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4">Ch6 </a>, <a href="https://github.com/11st-corp/book-club/blob/main/root/%EC%A0%84%EC%84%B1%ED%99%98/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md#7-%EA%B0%9D%EC%B2%B4-%EB%B6%84%ED%95%B4"> Ch7 </a> <br />
                 uneap: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch06.%20%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md"> Ch6</a>, <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/daeun/Ch07.%20%EA%B0%9D%EC%B2%B4%20%EB%B6%84%ED%95%B4.md"> Ch7 </a> <br />
+                gyumin: <a href="https://github.com/11st-corp/book-club/blob/main/root/book03_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/gyumin/6%EC%9E%A5%20%E2%80%94%20%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md"> Ch6 </a> <br />
             </td>
         </tr>
     </tbody>
